@@ -3,5 +3,5 @@ plugins {
 }
 
 golang {
-    packagePath = 'github.com/isacikgoz/gitbatch' 
+    packagePath = 'github.com/zzzghttt/gitbatch' 
 }
